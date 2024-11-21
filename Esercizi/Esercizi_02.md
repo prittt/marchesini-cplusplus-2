@@ -58,7 +58,7 @@ La stringa `s` sarà sempre formattata correttamente, ovvero conterrà solo lett
 
 # Esercizio 5 - Rimuovi Singoli Spazi
 
-Nei file `rimuovi_singoli_spazi.c` e `rimuovi_singoli_spazi.cpp` definire la funzione:
+Nei file `rimuovi_singoli_spazi.h` e `rimuovi_singoli_spazi.cpp` definire la funzione:
 
 ```c++
 std::string RimuoviSingoliSpazi(const std::string& input);
